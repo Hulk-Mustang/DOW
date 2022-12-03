@@ -1,0 +1,86 @@
+body{
+    font-family: 'Handlee',cursive;
+    background-color: lightpink;
+    
+}
+h2{
+    text-align: center;
+    padding: 15px;
+}
+h2 span{
+    border: 4px dashed aquamarine;
+}
+.css{
+    text-align: center;
+}
+.rty{
+    text-align: center;
+}
+.ret{
+    text-align: center;
+    color:darkcyan;
+}
+.ret h3{
+    transition: all 0.3s;
+}
+h3:hover{
+    font-size: 2rem;
+}
+.divro h2{
+    transition: all 0.1;
+}
+h2:hover{
+     color: #fff;
+     background-color: black;
+}
+ h4{
+    color: darkcyan;
+    text-align: center;
+}
+.yui table{
+    color:black;
+    width: 70%;
+}
+.yui td{
+    text-align: center;
+    color:#fff;
+}
+.yui th{
+    color:aquamarine;
+}
+.table td:hover{
+    background-color: red;
+    color: #fff;
+}
+h4{
+    transition: all 0.2s;
+}
+h4:hover{
+    font-size: 2rem;
+    color:cyan;
+    background-color: grey;
+}
+.one {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  .one h1 {
+    font-family: 'Righteous', cursive;
+    position: relative;
+    color: #3CA1D9; 
+    display: inline-block;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    font-size: 3em;
+    padding: 11px 60px;
+    margin: 0; 
+    line-height: 1;
+}
+th{
+    transition: all 0.1s;
+}
+th:hover{
+    font-size: 2rem;
+    color:aquamarine;
+    background-color:deeppink;
+}
